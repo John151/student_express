@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c578e031-c102-421f-a4af-c6f181c53c19" name="Default Changelist" comment="" />
+    <list default="true" id="c578e031-c102-421f-a4af-c6f181c53c19" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606699477984</updated>
       <workItem from="1606699479082" duration="12443000" />
-      <workItem from="1607123455958" duration="15879000" />
+      <workItem from="1607123455958" duration="16510000" />
     </task>
     <servers />
   </component>
@@ -59,5 +61,9 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="761" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1606848030507" />
+    <state x="544" y="119" key="Vcs.Push.Dialog.v2" timestamp="1607315278828">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="544" y="119" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1607315278828" />
   </component>
 </project>
